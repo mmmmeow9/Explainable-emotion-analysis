@@ -15,7 +15,7 @@ dataset adapted from [Emotion-Cause Pair Extraction: A New Task to Emotion Analy
 
 ## Emotion Trigger Visualisation
 
-emotion datasets:
+download emotion datasets before running 'emotion trigger words visualisation.ipynb'
 
 - Bing.csv: [Bing, NRC, Afinn Lexicons from Kaggle] (https://www.kaggle.com/datasets/andradaolteanu/bing-nrc-afinn-lexicons)
 - dict.xlsx: adapted from [Mining and summarizing customer reviews] (https://dl.acm.org/doi/abs/10.1145/1014052.1014073)
